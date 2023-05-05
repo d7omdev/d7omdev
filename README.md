@@ -1,3 +1,66 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrhman+Mohammed;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things!)](https://git.io/typing-svg)
+
 ![Snake animation](https://github.com/abdulrhmanmohammed198/abdulrhmanmohammed198/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanmohammed198&show_icons=true&theme=radical)
+![Abdulrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanmohammed198&show_icons=true&theme=radical)
+
+
+  <a width="45%" align="right" href="https://github.com/abdullahghanem/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanmohammed198&layout=compact&theme=radical&hide_border=true" />
+  </a>
+
+<!-- ![](https://komarev.com/ghpvc/?username=AbdullahGhanem)
+[![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abdullahghanem)
+[![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/abdullahghanem)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=brightgreen&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdullahghanem) -->
+
+[![Linkedin:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7)](https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7/)
+<!-- [![Instagram:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
+<!-- [![Twitter:Abdulrhman](https://img.shields.io/badge/-Ghanem-1b9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com//)](https://www.twitter.com//) -->
+![GitHub followers](https://img.shields.io/github/followers/abdulrhmanmohammed198?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrhmanmohammed198&color=brightgreen">  
+
+
+```javascript
+import WebDeveloper from 'abdulrhman';
+import { Languages, Frameworks } from 'abdulrhman/skills';
+
+class Bio extends WebDeveloper {
+  name     = 'Abdulrhman Mohammed';
+  title    = 'Jonior Web Developer';
+  location = 'Cairo, Egypt';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['c#', 'JavaScript', 'TypeScript', ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'SQL'];
+  frameworks = ['ASP.NET MVC', 'React.js', 'Node.js', ...Frameworks];
+}
+
+```
+
+
+<br />
+
+Hi, I'm Abdulrhman Mohammed, Jonior fullStack Web developer from Egypt.
+
+- 🌱 I’m currently learning Node.js 
+- 💬 Ask me about anything [here](https://github.com/abdullahghanem/abdulrhmanmohammed198/issues)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+
+
+<p>📧 You can reach me at <a href="mailto:abdohamdy198461@gmail.com"><b>abdohamdy198461@gmail.com</b></a></p>
+
+
+
