@@ -6,7 +6,7 @@
 
 
   <a width="45%" align="right" href="https://github.com/abdulrhmanmohammed198/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanmohammed198&layout=compact&theme=radical&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrhmanmohammed198&layout=compact&theme=radical&hide_border=true" />
   </a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=abdulrhmanmohammed)
