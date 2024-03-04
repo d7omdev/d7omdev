@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrhman+Mohammed;Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things!)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/abdulrhmanmohammed198/abdulrhmanmohammed198/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abdulrahmanDev1/abdulrahmanDev1/blob/output/github-contribution-grid-snake.svg)
 
-![Abdulrhman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrhmanmohammed198&show_icons=true&theme=radical)
+![Abdulrhman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahmanDev1&show_icons=true&theme=radical)
 
 
-  <a width="45%" align="right" href="https://github.com/abdulrhmanmohammed198/">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrhmanmohammed198&layout=compact&theme=radical&hide_border=true" />
+  <a width="45%" align="right" href="https://github.com/abdulrahmanDev1/">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&hide_border=true" />
   </a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=abdulrhmanmohammed)
@@ -17,13 +17,13 @@
 [![Linkedin:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7)](https://www.linkedin.com/in/abdulrhman-mohamed198/)
 <!-- [![Instagram:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 <!-- [![Twitter:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-1b9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com//)](https://www.twitter.com//) -->
-![GitHub followers](https://img.shields.io/github/followers/abdulrhmanmohammed198?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrhmanmohammed198&color=brightgreen">  
+![GitHub followers](https://img.shields.io/github/followers/abdulrahmanDev1?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
 
 ```javascript
-import WebDeveloper from 'abdulrhman';
-import { Languages, Frameworks } from 'abdulrhman/skills';
+import WebDeveloper from 'abdulrahman';
+import { Languages, Frameworks } from 'abdulrahman/skills';
 
 class Bio extends WebDeveloper {
   name     = 'Abdulrhman Mohammed';
@@ -42,10 +42,10 @@ class Skills extends SoftwareDeveloper {
 
 <br />
 
-Hi, I'm Abdulrhman Mohammed, Jonior fullStack Web developer from Egypt.
+Hi, I'm Abdulrhman Mohammed, Junior fullStack Web developer from Egypt.
 
-- 🌱 I’m currently learning Node.js 
-- 💬 Ask me about anything [here](https://github.com/abdullahghanem/abdulrhmanmohammed198/issues)
+- 🌱 I’m currently learning React(TypeScript)
+- 💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
 **Languages and Tools:**  
 
