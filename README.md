@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrhman+Mohammed;Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrahman+Mohammed;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/abdulrahmanDev1/abdulrahmanDev1/blob/output/github-contribution-grid-snake.svg)
 
@@ -26,15 +26,15 @@ import WebDeveloper from 'abdulrahman';
 import { Languages, Frameworks } from 'abdulrahman/skills';
 
 class Bio extends WebDeveloper {
-  name     = 'Abdulrhman Mohammed';
-  title    = 'Jonior Web Developer';
+  name     = 'Abdulrahman Mohammed';
+  title    = 'Full-stack Web Developer';
   location = 'Cairo, Egypt';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['c#', 'JavaScript', 'TypeScript', ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'SQL'];
-  frameworks = ['ASP.NET MVC', 'React.js', 'Node.js', ...Frameworks];
+  databases  = ['MySQL', 'MongoDB', 'SQL', PostgreSQL];
+  frameworks = ['ASP.NET MVC', 'React.js', 'Node.js', 'Next.js, ...Frameworks];
 }
 
 ```
@@ -42,9 +42,9 @@ class Skills extends SoftwareDeveloper {
 
 <br />
 
-Hi, I'm Abdulrhman Mohammed, Junior fullStack Web developer from Egypt.
+Hi, I'm Abdulrhman Mohammed,  a Full-Stack Web developer from Egypt.
 
-- 🌱 I’m currently learning React(TypeScript)
+- 🌱 I’m currently learning Next.js(TypeScript)
 - 💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
 **Languages and Tools:**  
@@ -63,6 +63,8 @@ Hi, I'm Abdulrhman Mohammed, Junior fullStack Web developer from Egypt.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
 <p>📧 You can reach me at <a href="mailto:abdulrahmanmohamed.code@gmail.com"><b>abdulrahmanmohamed.code@gmail.com</b></a></p>
