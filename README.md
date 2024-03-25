@@ -21,31 +21,14 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
 
-```javascript
-import WebDeveloper from 'abdulrahman';
-import { Languages, Frameworks } from 'abdulrahman/skills';
-
-class Bio extends WebDeveloper {
-  name     = 'Abdulrahman Mohammed';
-  title    = 'Full-stack Web Developer';
-  location = 'Cairo, Egypt';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['c#', 'JavaScript', 'TypeScript', ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'SQL', 'PostgreSQL'];
-  frameworks = ['ASP.NET MVC', 'React.js', 'Node.js', 'Next.js, ...Frameworks];
-}
-
-```
 
 
 <br />
 
 Hi, I'm Abdulrhman Mohammed,  a Full-Stack Web developer from Egypt.
 
- 🌱 I’m currently learning Next.js(TypeScript)
- 💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
+ -🌱 I’m currently learning Next.js(TypeScript)
+ -💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
 **Languages and Tools:**  
 
