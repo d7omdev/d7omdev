@@ -12,7 +12,7 @@
 <be/>
 
 [![Linkedin:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7)](https://www.linkedin.com/in/abdulrhman-mohamed198/)
-![GitHub followers](https://img.shields.io/github/followers/abdulrahmanDev1?label=Follow&style=social)
+
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
 
