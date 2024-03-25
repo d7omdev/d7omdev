@@ -15,15 +15,11 @@
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
-
-
-
 <br />
-
-Hi, I'm Abdulrhman Mohammed,  a Full-Stack Web developer from Egypt.
-
- 🌱 I’m currently learning React(TypeScript)
+"I primarily specialize in the MERN stack, with additional experience in Next.js and ASP.NET."
  <br/>
+ 🌱 I’m currently learning React(TypeScript)
+
  <br/>
  💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
