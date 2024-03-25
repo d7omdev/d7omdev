@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrahman+Mohammed;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrahman+Mohamed;Full-stack+web+Developer;Over+3+years+of+programming+experience)](https://git.io/typing-svg)
 
 ![Abdulrhman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahmanDev1&show_icons=true&theme=radical)
 
