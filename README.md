@@ -27,8 +27,9 @@
 
 Hi, I'm Abdulrhman Mohammed,  a Full-Stack Web developer from Egypt.
 
- -🌱 I’m currently learning Next.js(TypeScript)
- -💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
+ 🌱 I’m currently learning Next.js(TypeScript)
+ <br/>
+ 💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
 **Languages and Tools:**  
 
