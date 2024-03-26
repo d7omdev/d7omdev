@@ -14,8 +14,6 @@
 
 <br/>
 
-[![Linkedin:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7)](https://www.linkedin.com/in/abdulrhman-mohamed198/)
-
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
 <br/>
@@ -49,9 +47,7 @@
 
 ### Find me at
 
-[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://cyl.im/twitter)
-[![Insta Logo](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)](https://cyl.im/insta)
-[![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://cyl.im/in)
-
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
+[![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
 
 
