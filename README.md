@@ -5,12 +5,11 @@
 > I primarily work with the MERN stack, with additional experience in Next.js and ASP.NET.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&hide_rank=true" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
-
 
 <br/>
 
@@ -18,11 +17,7 @@
 
 <br/>
 
- 
  🌱 I’m currently learning React(TypeScript)
-
- <br/>
- 
  💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
 **Languages and Tools:**  
@@ -45,7 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
-### Find me at
+**Find me at**
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
 [![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
