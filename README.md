@@ -5,15 +5,11 @@
 > I primarily work with the MERN stack, with additional experience in Next.js and ASP.NET.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&hide_border=true$hide_rank=true" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
-
-<br/>
-
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
 <br/>
 
