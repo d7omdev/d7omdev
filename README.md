@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_rank=true&layout=compact" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&size_weight=0.1&count_weight=0.9&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true&hide=php" />
 </a>
 
 <br/>
