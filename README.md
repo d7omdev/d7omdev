@@ -84,7 +84,7 @@
 
 
 
-**Find me at**
+**Find me at:**
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
 [![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
