@@ -21,10 +21,7 @@
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&bg=%23141321&titleColor=%23fe428e&line1=node.js%2Cnode%2C5cad47%3Bexpress%2Cexpress%2C000000%3Bnext.js%2Cnext%2C000000%3Btypescript%2Ctypescript%2C007acc%3B&line2=mongodb%2CmongoDB%2C439934%3Bpostgresql%2Cpostgre%2C336791%3Btailwindcss%2Ctailwind%2C45a9b3%3Bgit%2Cgit%2Cf03c2e%3B)
 
-
-
 **Find me at:**
-
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
 [![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
