@@ -4,12 +4,13 @@
 
 > I primarily work with the MERN stack, with additional experience in Next.js and ASP.NET.
 
-![Abdulrhman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahmanDev1&show_icons=true&theme=radical)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanDev1&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
+</a>
 
-
-  <a width="45%" align="right" href="https://github.com/abdulrahmanDev1/">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&hide_border=true" />
-  </a>
 
 <br/>
 
@@ -46,8 +47,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
+### Find me at
 
-<p>📧 You can reach me at <a href="mailto:abdulrahmanmohamed.code@gmail.com"><b>abdulrahmanmohamed.code@gmail.com</b></a></p>
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://cyl.im/twitter)
+[![Insta Logo](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)](https://cyl.im/insta)
+[![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://cyl.im/in)
 
 
 
