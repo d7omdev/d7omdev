@@ -1,4 +1,4 @@
-<div align="center">
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrahman+Mohamed;Full-stack+web+Developer;Over+3+years+of+programming+experience)](https://git.io/typing-svg)
 
@@ -49,5 +49,5 @@
 
 <p>📧 You can reach me at <a href="mailto:abdulrahmanmohamed.code@gmail.com"><b>abdulrahmanmohamed.code@gmail.com</b></a></p>
 
-</div>
+
 
