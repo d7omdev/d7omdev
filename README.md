@@ -9,13 +9,13 @@
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanDev1&layout=compact&theme=radical&hide_border=true" />
   </a>
 
-<be/>
+<br/>
 
 [![Linkedin:Abdulrhman](https://img.shields.io/badge/-Abdulrhman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrhman-mohamed-a551041a7)](https://www.linkedin.com/in/abdulrhman-mohamed198/)
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdulrahmanDev1&color=brightgreen">  
 
-<br />
+<br/>
 
 I primarily work with the MERN stack, with additional experience in Next.js and ASP.NET.
 
