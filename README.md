@@ -19,7 +19,7 @@
  
  💬 Ask me about anything [here](https://github.com/abdulrahmanDev1/abdulrahmanDev1/issues)
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&bg=%23141321&titleColor=%23fe428e&line1=node.js%2Cnode%2C5cad47%3Bexpress%2Cexpress%2C000000%3Bnext.js%2Cnext%2C000000%3Btypescript%2Ctypescript%2C007acc%3B&line2=mongodb%2CmongoDB%2C439934%3Bpostgresql%2Cpostgre%2C336791%3Btailwindcss%2Ctailwind%2C45a9b3%3Bgit%2Cgit%2Cf03c2e%3B" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=3&bg=%23141321&titleColor=%23c4336e&line1=mongodb%2Cmongodb%2C47A248%3Bexpress%2Cexpress%2C7a7a7a%3Breact%2Creact%2C61DAFB%3Bnode.js%2Cnode%2C4b893e%3B&line2=next.js%2Cnext%2C000000%3Bpostgresql%2Cpostgre%2C4169E1%3Btailwindcss%2Ctalwind%2C06B6D4%3Bdotnet%2C.net%2C512BD4%3B&line3=javascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bgit%2Cgit%2CF05032%3Bcsharp%2Ccs%2C512BD4%3B" alt="My Tech Stack" />
 
 **Find me at:**
 
