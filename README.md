@@ -23,7 +23,7 @@
 
 **Find me at:**
 
-[![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg)](https://twitter.com/D7OMDEV)
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
 [![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
 
 
