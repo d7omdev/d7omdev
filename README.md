@@ -23,7 +23,10 @@
 
 **Find me at:**
 
-[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://twitter.com/D7OMDEV)
-[![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/abdulrahmandev/)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/d7omdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d7omdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulrahmandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmandev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdulrahmandev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulrahmandev1" height="30" width="40" /></a>
+</p>
 
