@@ -1,4 +1,4 @@
-
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains&pause=1000&center=true&vCenter=true&width=600&color=D93A7C&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdulrahman+Mohamed;Full-stack+web+Developer;Over+3+years+of+programming+experience)](https://git.io/typing-svg)
 
@@ -30,4 +30,4 @@
 <a href="https://linkedin.com/in/abdulrahmandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmandev" height="20" width="33" /></a>
 <a href="https://www.leetcode.com/abdulrahmandev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulrahmandev1" height="20" width="33" /></a>
 </p>
-
+</div>
